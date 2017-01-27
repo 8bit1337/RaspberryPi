@@ -1,1 +1,2 @@
-# Add your code here to run in your startup task
+﻿# Add your code here to run in your startup task
+print('hello world')
